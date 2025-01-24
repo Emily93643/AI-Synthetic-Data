@@ -4,8 +4,10 @@ Install latest python version
 
 1. To create/activate python ,venv:
   >python -m venv .venv
+
   Linux:
   >source .venv/bin/activate.csh
+  
   Windows:
   >.\.venv\Scripts\activate 
 
